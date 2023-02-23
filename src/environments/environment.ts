@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  CONNECTION_URL: "https://sheet.best/api/sheets/e73221ea-ae4d-42ed-8714-6e49738204df",
 };
 
 /*
